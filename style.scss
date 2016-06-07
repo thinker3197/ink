@@ -1,7 +1,7 @@
 ---
----
+--- 
 
-$open-sans: 'Open Sans',sans-serif;
+$open-sans: 'Open Sans', sans-serif;
 $source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 * {
@@ -305,7 +305,7 @@ tbody tr:nth-child(odd) th {
         margin-left: 0;
         a {
             padding: 5px;
-          }
+        }
     }
     @media (min-width: 38em) {
         position: fixed;
