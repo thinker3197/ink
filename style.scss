@@ -1,0 +1,66 @@
+---
+---
+
+ * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.6;
+    @media (min-width: 38em) {
+        font-size: 20px;
+    }
+}
+
+body {
+    color: #515151;
+    background-color: #FAFAFA;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.5s;
+    &:hover,
+    &:focus {
+        color: #EC407A;
+        text-decoration: dotted;
+    }
+}
+
+.top {
+    position: fixed;
+    background: #EC407A;
+    height: 3px;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+}
+
+.profile {
+    position: absolute;
+    height: 100%;
+    width: 20%;
+    background: #000;
+    display: inline-block;
+}
+
+.posts {
+    margin-left: 20%;
+    height: auto;
+    width: 80%;
+    padding: 3%;
+}

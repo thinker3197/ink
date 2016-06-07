@@ -1,37 +1,35 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+name:               "Ink"
+description:        "A minimalistic jekyll theme for humans"
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: rouge
-markdown: kramdown
-disqus: dbyll
-title: Ashish's Blog
+url:                ""
+author:             "thinker3197"
+twitter:
+  username:         "jhondoe"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Download"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
 
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path:         ""
+      type:         "pages"
     values:
-      title: Ashish's Blog
-
-description: Stylish Jekyll Theme
-author:
-  name: Ashish
-  email: ashishgupta.3197@gmail.com
-  github: thinker3197
-  twitter: thinker3197
-  linkedin: ashish3197
-  bio: Human.
-
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
-# set it as url of an image
-# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
-
-BASE_PATH: http://thinker3197.github.io/blog
-
-gems:
-  - jekyll-paginate
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
