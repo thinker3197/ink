@@ -359,3 +359,20 @@ tbody tr:nth-child(odd) th {
         padding: 3%;
     }
 }
+
+.bloghead {
+    .bloghead-title {
+
+    }
+    .bloghead-nav {
+        span {
+            font-weight: 800;
+            color: #000;
+            &:hover,
+            &:focus {
+                color: #000;
+                text-decoration: dotted;
+            }
+        }
+    }
+}
