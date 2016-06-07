@@ -1,5 +1,8 @@
 ---
---- 
+---
+
+$open-sans: 'Open Sans',sans-serif;
+$source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 * {
     -webkit-box-sizing: border-box;
@@ -11,10 +14,11 @@ html,
 body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 html {
-    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: $source-sans;
     font-size: 18px;
     font-weight: 300;
     line-height: 1.6;
@@ -241,13 +245,13 @@ table {
 
 td,
 th {
-    padding: .25rem .5rem;
+    padding: .25rem .25rem;
     border: 1px solid #e5e5e5;
 }
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-    background-color: #f9f9f9;
+    background-color: #eee;
 }
 
 .top {
@@ -268,7 +272,7 @@ tbody tr:nth-child(odd) th {
 
 .profile {
     position: absolute;
-    height: 20%;
+    height: 40%;
     width: 100%;
     background: #212121;
     border-right: 3px solid #eee;
@@ -279,6 +283,23 @@ tbody tr:nth-child(odd) th {
     }
     .img-circle {
         border-radius: 50%;
+        margin-top: 3vh;
+        margin-left: 3vw;
+        display: inline-block;
+    }
+    h3 {
+        height: auto;
+        width: auto;
+        float: right;
+        margin-right: 14vw;
+    }
+    p {
+        height: auto;
+        width: auto;
+        float: right;
+        margin-left: 14vw;
+    }
+    .social {
     }
     @media (min-width: 38em) {
         position: fixed;
@@ -290,24 +311,34 @@ tbody tr:nth-child(odd) th {
         }
         h3 {
             text-align: center;
+            float: none;
+            margin-top: -0.8em;
+            margin-right: 0;
         }
         p {
+            float: none;
             margin: 1em;
             margin-top: -1.3em;
+            margin-left: 0;
             font-size: 16px;
             text-align: center;
-            word-break: break-all;
+            letter-spacing: 2px;
         }
         .img-circle {
-             margin-top: 25%;
+            margin-top: 25%;
             margin-left: 24%;
+        }
+        .social {
+            position: absolute;
+            bottom: 0;
         }
     }
 }
 
 .posts {
     max-width: 38rem;
-    padding: 2rem 1.5rem;
+    padding: 1.4rem 0.8rem;
+    margin-top: -3vh;
     margin-left: auto;
     margin-right: auto;
     @media (min-width: 38rem) {
