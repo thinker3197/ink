@@ -3,10 +3,12 @@ description:        "A minimalistic jekyll theme for humans"
 
 url:                ""
 author:             "thinker3197"
-  email:            "jhondoe@abc.com"
-  gravatar_hash:    "205e460b479e2e5b48aec07710c08d50"
-  twitter:          "jhondoe"
-  github:           "jhondoe"
+email:              "jhondoe@abc.com"
+gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+twitter:            "jhondoe"
+email:              "jhondoe@abc.com"
+github:             "jhondoe"
+
 
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
