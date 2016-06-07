@@ -1,20 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Brume
+author: Ashish Gupta
+description: Thoughts of a human.
 
-# Site settings
-title: JavaScript, Design and More
-email: ashishgupta.3197@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A pool of my thoughts about world, JavaScript, people and 
-  more. I'm a introvert CS frosh from Delhi.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://thinker3197.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
 markdown: kramdown
+highlighter: null
+permalink: /:title
+
+url:
+baseurl: 
+
+sass:
+  sass_dir: public/css
+  style: :compressed
