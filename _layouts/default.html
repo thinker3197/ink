@@ -6,7 +6,8 @@
     <div class="top"></div>
     <div class="profile">
     	<img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
-    	<h1>{{ site.author }}</h1>
+    	<h3>{{ site.name }}</h3>
+    	<p>{{ site.description }}</p>
     	<ul class="social">
     		{% if site.github %}
 			<a type="button" href="http://github.com/{{ site.github }}">

@@ -278,8 +278,6 @@ tbody tr:nth-child(odd) th {
         width: 50px;
     }
     .img-circle {
-        margin-top: 25%;
-        margin-left: 24%;
         border-radius: 50%;
     }
     @media (min-width: 38em) {
@@ -289,6 +287,20 @@ tbody tr:nth-child(odd) th {
         img {
             height: 140px;
             width: 140px;
+        }
+        h3 {
+            text-align: center;
+        }
+        p {
+            margin: 1em;
+            margin-top: -1.3em;
+            font-size: 16px;
+            text-align: center;
+            word-break: break-all;
+        }
+        .img-circle {
+             margin-top: 25%;
+            margin-left: 24%;
         }
     }
 }
