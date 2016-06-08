@@ -35,7 +35,7 @@ body {
 }
 
 a {
-    color: inherit;
+    color: #515151;
     text-decoration: none;
     transition: all 0.3s;
     &:hover,
@@ -270,6 +270,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .pages {
+    position: absolute;
     bottom: 0;
     right: 0;
     margin: 2vw;
