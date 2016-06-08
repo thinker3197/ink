@@ -12,18 +12,18 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com).
 # Configuration 
  * Change the following in ```_config.yml```.
  ```
-    name:               "Ink"
-    description:        "A minimalistic jekyll theme for humans"
-    url:                ""
-    author:             "thinker3197"
-    email:              "jhondoe@abc.com"
-    gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-    twitter:            "jhondoe"
-    email:              "jhondoe@abc.com"
-    github:             "jhondoe"
-    pinterest:          "jhondoe"
-    linkedin:           "jhondoe"
-    facebook:           "jhondoe"
+   - name:               "Ink"
+   - description:        "A minimalistic jekyll theme for humans"
+   - url:                ""
+   - author:             "thinker3197"
+   - email:              "jhondoe@abc.com"
+   - gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+   - twitter:            "jhondoe"
+   - email:              "jhondoe@abc.com"
+   - github:             "jhondoe"
+   - pinterest:          "jhondoe"
+   - linkedin:           "jhondoe"
+   - facebook:           "jhondoe"
 ```
  * Set the number of posts that appear in each page by changing the ```paginate``` option in ```_config.yml``` file. Default value is 5.
  * Add more navigation menus in the ```nav``` section in ```_config.yml```. 
