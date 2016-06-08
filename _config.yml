@@ -12,6 +12,9 @@ pinterest:          "jhondoe"
 linkedin:           "jhondoe"
 facebook:           "jhondoe"
 
+paginate:           5
+paginate_path:      "/page:num/"
+
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
@@ -39,3 +42,6 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+gems:
+  - jekyll-paginate

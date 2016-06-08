@@ -269,21 +269,13 @@ tbody tr:nth-child(odd) th {
     z-index: 100;
 }
 
-.social {
-    @media (min-width: 38em) {
-        position: absolute;
-        bottom: 0;
-    }
+.pages {
+    color: #fff;
 }
 
 .profile {
-    // position: absolute;
-    // height: 50vw;
-    // width: 100%;
     padding: 2%;
     background: #212121;
-    // border-right: 3px solid #eee;
-    // display: inline-block;
     .img-circle {
         height: auto;
         width: 20%;
