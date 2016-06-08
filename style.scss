@@ -270,7 +270,11 @@ tbody tr:nth-child(odd) th {
 }
 
 .pages {
-    color: #fff;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 2vw;
+    color: #000;
 }
 
 .profile {
