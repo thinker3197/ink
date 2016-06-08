@@ -1,6 +1,6 @@
 # Ink
 
-Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com). 
+Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com) 
 
 ![Screenshot](http://s33.postimg.org/cmdrbd10v/Slice_1.png)
 
