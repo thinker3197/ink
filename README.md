@@ -1,2 +1,3 @@
-# blog
-Pool of my thoughts
+# Ink
+
+A jekyll theme for humans.
