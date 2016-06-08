@@ -16,11 +16,14 @@ layout: default
   <h2>No post found</h2>
 {% else %}
 {% for post in site.posts %}
-  <div class="list-item">
-    <h2 class="list-post-title">
+  <div class="post-list">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
-    <div class="list-post-date">
+    {% if post.description %}
+      <p>{{ post.description }}</p>
+    {% endif %}
+    <div class="post-date">
       <time>{{ post.date | date_to_string }}</time>
     </div>
   </div>
