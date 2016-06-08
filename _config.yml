@@ -15,7 +15,7 @@ facebook:           "jhondoe"
 paginate:           5
 paginate_path:      "/page:num/"
 
-baseurl:            "blog"
+baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
