@@ -277,47 +277,45 @@ tbody tr:nth-child(odd) th {
 }
 
 .profile {
-    position: absolute;
-    height: 40%;
-    width: 100%;
+    // position: absolute;
+    // height: 50vw;
+    // width: 100%;
+    padding: 2%;
     background: #212121;
-    border-right: 3px solid #eee;
-    display: inline-block;
-    img {
-        height: 50px;
-        width: 50px;
-    }
+    // border-right: 3px solid #eee;
+    // display: inline-block;
     .img-circle {
+        height: auto;
+        width: 20%;
         border-radius: 50%;
-        margin-top: 3vh;
-        margin-left: 3vw;
-        display: inline-block;
+        display: block;
+        margin: 1rem 1rem 1rem;
+        display: inline;
     }
     h3 {
         height: auto;
-        width: auto;
+        margin-right: 4vw;
+        margin-top: 10vw;
+        width: 50%;
         float: right;
-        margin-right: 14vw;
+        color: #BDBDBD;
     }
     p {
         height: auto;
-        width: auto;
-        float: right;
-        margin-left: 14vw;
+        width: 100%;
+        text-align: center;
         color: #616161;
     }
     .social {
-        position: absolute;
-        bottom: 0;
-        margin-left: 0;
-        a {
-            padding: 5px;
-        }
+        margin-left: 25vw;
+        height: auto;
+        width: 100%;
     }
     @media (min-width: 38em) {
         position: fixed;
         width: 20%;
         height: 100%;
+        padding: 0;
         img {
             height: 140px;
             width: 140px;
@@ -325,26 +323,25 @@ tbody tr:nth-child(odd) th {
         h3 {
             text-align: center;
             float: none;
+            width: 100%;
             margin-top: -0.8em;
-            margin-right: 0;
         }
         p {
-            float: none;
-            margin: 1em;
             margin-top: -1.3em;
-            margin-left: 1vw;
             font-size: 16px;
             text-align: center;
             letter-spacing: 2px;
         }
         .img-circle {
+            height: auto;
+            width: 55%;
             margin-top: 25%;
             margin-left: 24%;
         }
         .social {
             position: absolute;
             bottom: 0;
-            margin-left: 1.5rem;
+            margin-left: 2vw;
             a {
                 padding: 0;
                 margin-left: 0;
@@ -356,7 +353,6 @@ tbody tr:nth-child(odd) th {
 .posts {
     max-width: 38rem;
     padding: 1.4rem 0.8rem;
-    margin-top: 57%;
     margin-left: auto;
     margin-right: auto;
     @media (min-width: 38rem) {
@@ -374,6 +370,13 @@ tbody tr:nth-child(odd) th {
         }
     }
     .bloghead-nav {
+        a {
+            color: #000;
+            font-weight: 800;
+            &:hover {
+                color: #424242;
+            }
+        }
         span {
             font-weight: 800;
             color: #EC407A;
