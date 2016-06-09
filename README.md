@@ -43,7 +43,7 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
  **Ink** is currently in development. Pull-requests and feature requests are invited. Here is a TODO list that needs to be added
  
  - [ ] Add [Disqus](https://disqus.com/) commenting system
- - [ ] Improve pagenation format
+ - [x] Improve pagenation format
  - [ ] Add option to set custom background in sidebar
  
 # Licensce
