@@ -10,6 +10,13 @@ $source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     box-sizing: border-box;
 }
 
+html,      
+body {        
+     margin: 0;        
+     padding: 0;       
+     overflow-x: hidden;       
+ }
+
 html {
     font-family: $source-sans;
     font-size: 18px;
@@ -28,6 +35,7 @@ body {
 }
 
 a {
+    color: #515151;
     text-decoration: none;
     transition: all 0.3s;
     &:hover,
