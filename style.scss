@@ -10,11 +10,19 @@ $source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     box-sizing: border-box;
 }
 
+.preload * {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -ms-transition: none !important;
+  -o-transition: none !important;
+  transition: none !important;
+}
+
 html,
 body {
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 html {
@@ -358,11 +366,14 @@ tbody tr:nth-child(odd) th {
     padding: 1.4rem 0.8rem;
     margin-left: auto;
     margin-right: auto;
+    overflow: auto;
     @media (min-width: 38rem) {
         margin-top: 0;
         margin-left: 20%;
-        width: 80%;
         padding: 3%;
+        min-width: 80%;
+        overflow: auto;
+        height: 800px;
     }
 }
 

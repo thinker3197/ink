@@ -2,7 +2,7 @@
 <html lang="en">
 {% include head.html %}
 
-<body>
+<body class="preload">
     <div class="top"></div>
     <div class="profile">
         <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
@@ -36,5 +36,9 @@
         {{ content }}
     </div>
 </body>
-
+<script type="text/javascript">
+    window.onload = function(){
+        document.getElementsByTagName("BODY")[0].classList.remove("preload");
+    }
+</script>
 </html>
