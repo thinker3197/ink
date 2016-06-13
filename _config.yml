@@ -16,15 +16,15 @@ paginate:           5
 paginate_path:      "page:num/"
 
 baseurl:            ""
-permalink:          /:year/:month/:day/:title/
+permalink:          :year/:month/:day/:title/
 
 markdown:           kramdown
 
 nav:
   - name:           "About"
-    href:           "/about"
+    href:           "about"
   - name:           "Download"
-    href:           "/releases"
+    href:           "releases"
 
 sass:
   style:            :compressed
