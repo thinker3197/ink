@@ -13,7 +13,7 @@ linkedin:           "jhondoe"
 facebook:           "jhondoe"
 
 paginate:           5
-paginate_path:      "/page:num/"
+paginate_path:      "page:num/"
 
 baseurl:            ""
 permalink:          /:year/:month/:day/:title/
