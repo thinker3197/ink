@@ -10,7 +10,7 @@ layout: default
         <a href="{{ site.url }}/{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
     </nav>
 </header>
-<div class="content list">
+<div class="content">
     {% if site.posts.size == 0 %}
     <h2>No post found</h2> {% else %} {% for post in paginator.posts %}
     <div class="post-list">
