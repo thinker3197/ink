@@ -22,7 +22,9 @@ html,
 body {
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    @media (min-width: 38em) {
+        overflow: hidden;
+    }
 }
 
 html {
@@ -372,7 +374,6 @@ tbody tr:nth-child(odd) th {
         margin-left: 20%;
         padding: 3%;
         min-width: 80%;
-        overflow: auto;
         height: 800px;
     }
 }
