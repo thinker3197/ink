@@ -38,13 +38,7 @@ Ink is a minmal two-column theme for [Jekyll](http://jekyllrb.com)
  * Set the number of posts that appear in each page by changing the ```paginate``` option in ```_config.yml``` file. Default value is 5.
  * Add more navigation menus in the ```nav``` section in ```_config.yml```. 
  * Add your custom url in ```url``` option. Example : http://thinker3197.github.io/blog. Consult the ```gh-pages``` branch to see the basic setup for a blog.
-# Development
-
- **Ink** is currently in development. Pull-requests and feature requests are invited. Here is a TODO list that needs to be added
- 
- - [ ] Add [Disqus](https://disqus.com/) commenting system
- - [x] Improve pagenation format
- - [ ] Add option to set custom background in sidebar
+ * Add your custom background by adding a custom background link in the ```background``` option in ```_config.yml```.
  
 # Licensce
 
