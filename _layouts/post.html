@@ -10,7 +10,4 @@ layout: default
     <time>{{ page.date | date_to_string }}</time>
   </div>
   {{ content }}
-  {% if site.disqus_shortname %}
-  	{% include disqus_comments.html %}
-  {% endif %}
 </div>
