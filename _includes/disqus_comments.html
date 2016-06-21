@@ -1,9 +1,8 @@
 {% if page.comments != false %}
-{% if page.comments != false %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
   var disqus_shortname  = '{{ site.disqus_shortname }}';
-  var disqus_identifier = '{{ page.url }}';
+  var disqus_identifier = '{{ site.url }}';
 
   (function() {
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
