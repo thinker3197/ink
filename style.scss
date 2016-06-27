@@ -284,15 +284,22 @@ tbody tr:nth-child(odd) th {
 
 .pages {
     position: fixed;
-    bottom: 0;
-    right: 0;
+    bottom: 1.5%;
+    right: 2%;
     font-weight: 800;
     margin: 2vw;
     a {
-        color: #000;
+        padding: 4px;
+        padding-left: 9px;
+        padding-right: 9px;
+        text-align: center;
+        border: 2px #EC407A solid;
+        color: #EC407A;
         &:hover,
         &:focus {
-            color: #BDBDBD;
+            color: #fff;
+            border-color: #fff;
+            background: #EC407A;
         }
     }
 }
