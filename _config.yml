@@ -1,9 +1,9 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Haizhu.Pan"
+description:        "A personal blog use Ink's theme"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "haizhupan"
+email:              haizhupan@gmail.com "
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
 twitter:            "jhondoe"
 email:              "jhondoe@abc.com"
@@ -27,8 +27,8 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Pictures"
+    href:           "/pictures"
 
 sass:
   style:            :compressed
