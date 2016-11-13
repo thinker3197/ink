@@ -5,10 +5,12 @@ permalink: /about/
 <section class="content">
   <font color="black">
   <h4>Contact Information</h4>
-    <p><li><b>Email</b>: haizhup@gmail.com.</li></p> 
-    <p><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</p> 
-    <p><b>Phone</b>: ***-***-**** </p>
-  
+    <ul>
+    <li><b>Email</b>: haizhup@gmail.com.</li>
+    <li><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</li>
+    <li><b>Phone</b>: ***-***-**** </li>
+    </ul>
+    
   <h4>Education</h4>
   <ul>
     <li> 2016.9- present, PhD candidate, Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, <a href="http://www.iarrp.cn/sites/IARRP/">(IARRP, CAAS)</a>.</li>
