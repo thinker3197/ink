@@ -5,14 +5,14 @@ permalink: /about/
 <section class="content">
   <font color="black">
   <h4>Contact Information</h4>
-    <p> <b>Email</b>: haizhup@gmail.com.</p> 
+    <p><li><b>Email</b>: haizhup@gmail.com.</li></p> 
     <p><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</p> 
     <p><b>Phone</b>: ***-***-**** </p>
   
   <h4>Education</h4>
   <ul>
-    <li> 2016.9- present, PhD candidate, Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, <a href="http://www.iarrp.cn/sites/IARRP/">(IARRP,CAAS)</a>.</li>
-    <li> 2012.9-2015.7, M.Sc, Cartography and Geographic Information System, Cold and Arid Regions Engineering Research Institute, Chinese Academy of Science<a href="http://www.nieer.cas.cn/">(CARERI ,CAS)</a>.</li>
+    <li> 2016.9- present, PhD candidate, Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, <a href="http://www.iarrp.cn/sites/IARRP/">(IARRP, CAAS)</a>.</li>
+    <li> 2012.9-2015.7, M.Sc, Cartography and Geographic Information System, Cold and Arid Regions Engineering Research Institute, Chinese Academy of Science<a href="http://www.nieer.cas.cn/">(CARERI, CAS)</a>.</li>
     <li> 2008.9-2012.7, B.Eng, Remote Sensing Science and Technology, Shandong Agricultural University <a href="http://www.sdau.edu.cn/">(SDAU)</a>.</li> 
   </ul>
   
