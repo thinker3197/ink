@@ -7,6 +7,7 @@ permalink: /about/
 	<meta name="description" content="This page is about Haizhu Pan's education, skills, and contact information">
 </head>
 <section class="content">
+  <font color="black">
   <h4>Contact Information</h4>
   <ul>
     <li> <b>Email</b>: haizhup@gmail.com.</li> 
@@ -25,4 +26,6 @@ permalink: /about/
   <ul>
     <li> 2015.7-2014.5, Intern, Nanjing Institute of Geography & Limnology, Chinese Academy of Sciences<a href="http://www.niglas.ac.cn/"> (NIGLAS,CAS)</a>.</li>
   </ul>
+  
+  </font>
 </section>
