@@ -9,7 +9,7 @@ permalink: /about/
 <section class="content">
   <h4>Contact Information</h4>
   <ul>
-    <li> <b>Email</b>: haizhup(at symbol)gmail.com.</li> 
+    <li> <b>Email</b>: haizhup@gmail.com.</li> 
     <li><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</li> 
     <li><b>Phone</b>: ***-***-**** </li>
   </ul>
