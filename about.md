@@ -11,7 +11,7 @@ permalink: /about/
     <li><b>Phone</b>: ***-***-**** </li>
     </ul>
     
-  <h4>Education</h4>
+<p><b>Education</b></p>
   <ul>
     <li> 2016.9- present, PhD candidate, Agricultural Remote Sensing, Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences, <a href="http://www.iarrp.cn/sites/IARRP/">(IARRP, CAAS)</a>.</li>
     <li> 2012.9-2015.7, M.Sc, Cartography and Geographic Information System, Cold and Arid Regions Engineering Research Institute, Chinese Academy of Science<a href="http://www.nieer.cas.cn/">(CARERI, CAS)</a>.</li>
