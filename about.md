@@ -2,7 +2,15 @@
 title: About Me
 permalink: /about/
 ---
-
-<p class="heavy-title"><a href="http://github.com/thinker3197/Ink">Ink</a> is a simple & minimalistic theme for <a href="http://jekyllrb.com">Jekyll</a>, a static site generator.</p>
-
->Designed and developed by [@thinker3197](https://github.com/thinker3197).
+<head>
+	<meta name="keywords" content="SDAU, CAS, CAAS, Remote Sensing, agriculture, IDL, ENVI, python, ArcGis, Fortran, MATLAB">
+	<meta name="description" content="This page is about Haizhu Pan's education, skills, and contact information">
+</head>
+<section class="content">
+  <h3>Contact Information</h3>
+  <ul>
+	<li> <b>Email</b>: haizhup(at symbol)gmail.com.</li>
+	<li><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</li> 
+	<li><b>Phone</b>: ***-***-**** </li>
+  </ul>
+</section>
