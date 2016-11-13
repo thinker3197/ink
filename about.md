@@ -3,13 +3,11 @@ title: About Me
 permalink: /about/
 ---
 <section class="content">
-  <font color="red">
+  <font color="black">
   <h4>Contact Information</h4>
-  <ul>
-    <li> <b>Email</b>: haizhup@gmail.com.</li> 
-    <li><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</li> 
-    <li><b>Phone</b>: ***-***-**** </li>
-  </ul>
+    <p> <b>Email</b>: haizhup@gmail.com.</p> 
+    <p><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</p> 
+    <p><b>Phone</b>: ***-***-**** </p>
   
   <h4>Education</h4>
   <ul>
