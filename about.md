@@ -3,7 +3,7 @@ title: About Me
 permalink: /about/
 ---
 <section class="content">
-  <font color="black">
+  <font color="red">
   <h4>Contact Information</h4>
   <ul>
     <li> <b>Email</b>: haizhup@gmail.com.</li> 
