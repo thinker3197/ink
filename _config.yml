@@ -10,7 +10,7 @@ github:             "haizhupan"
 
 disqus_shortname:   "thinker3197"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "/w-17198.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
