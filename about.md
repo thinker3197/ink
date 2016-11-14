@@ -3,11 +3,13 @@ title: About Me
 permalink: /about/
 ---
 <section class="content">
-  <font color="black" style="font-family:Times New Roman">
+  <style>
   h4 {
       margin-top: 0.33em;
       margin-bottom: 0.33em;
   }
+  </style>
+  <font color="black" style="font-family:Times New Roman">
   <h4>Contact Information</h4>
     <ul type="cirle" stype="margin-top:0px">
     <li><b>Email</b>: haizhup@gmail.com.</li>
