@@ -3,11 +3,11 @@
 {% include head.html %}
 
 <body class="preload">
-    <font color="black">
+    
     <div class="top"></div>
     <div class="profile" style="background-image: url({{ site.background }});">
         <img src="/phz.jpg" class="img-circle" />
-        <h3>{{ site.name }}</h3>
+        <h3><font color="black">{{ site.name }}</font></h3>
         <p>{{ site.description }}</p>
         <ul class="social">
             {% if site.github %}
@@ -36,7 +36,7 @@
     <div class="posts">
         {{ content }}
     </div>
-    </font>
+    
 </body>
 <script type="text/javascript">
     window.onload = function(){
