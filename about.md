@@ -41,8 +41,7 @@ permalink: /about/
   <h4>Skills</h4>
   <p>With no doubt, programming skills is very important in doing research. I compile and run codes in 
   the Linux and OS platform, and also can use Fortran, however,Python and IDL are the most frequently-used 
-  tool for me.
-  I can use ArcGis, ENVI, and R finish certain fundamental operations.
+  tool for me.<br />I can use ArcGis, ENVI, and R finish certain fundamental operations.<br />
   I have a superficial knowledge on Matlab, also, I am a novice on Git and Jekyll.</p>
   </font>
 </section>
