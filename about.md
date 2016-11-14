@@ -4,7 +4,11 @@ permalink: /about/
 ---
 <section class="content">
   <font color="black" style="font-family:Times New Roman">
-  <h4 stype=margin-bottom:0px>Contact Information</h4>
+  h4 {
+      margin-top: 0.33em;
+      margin-bottom: 0.33em;
+  }
+  <h4>Contact Information</h4>
     <ul type="cirle" stype="margin-top:0px">
     <li><b>Email</b>: haizhup@gmail.com.</li>
     <li><b>Affiliation</b>: PhD candidate, Institute of Agricultural Resources and Regional Planning, CAAS.</li>
