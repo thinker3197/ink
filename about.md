@@ -5,8 +5,8 @@ permalink: /about/
 <head>
  <style>
   h4 {
-      margin-top: 0.23em;
-      margin-bottom: 0.13em;
+      margin-top: 0.33em;
+      margin-bottom: 0.03em;
   }
   </style>
 </head>
@@ -34,15 +34,15 @@ permalink: /about/
   <h4>Awards</h4>
   <ul>
 	   <li> First Prize Scholarship, CAS, 2013.</li>
-   	<li> National Encouragement Scholarship, 2010.</li>
+   	<li> National Encouragement Scholarship, SDAU, 2010.</li>
 	   <li> Second Prize Scholarship, SDAU, 2009.</li>
   </ul>
   
   <h4>Skills</h4>
   <p>With no doubt, programming skills is very important in doing research. I compile and run codes in 
   the Linux and OS platform, and also can use Fortran, however,Python and IDL are the most frequently-used 
-  tool for me.</p>
-  <p>I have a superficial knowledge on Matlab, also, I am a novice on Git and Jekyll.</p>
-   <p>I can use ArcGis, ENVI, and R finish certain fundamental operations.</p>
+  tool for me.
+  I can use ArcGis, ENVI, and R finish certain fundamental operations.
+  I have a superficial knowledge on Matlab, also, I am a novice on Git and Jekyll.</p>
   </font>
 </section>
