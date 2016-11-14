@@ -2,13 +2,15 @@
 title: About Me
 permalink: /about/
 ---
-<section class="content">
-  <style>
+<head>
+ <style>
   h4 {
-      margin-top: 0.33em;
-      margin-bottom: 0.33em;
+      margin-top: 0.13em;
+      margin-bottom: 0.13em;
   }
   </style>
+</head>
+<section class="content">
   <font color="black" style="font-family:Times New Roman">
   <h4>Contact Information</h4>
     <ul type="cirle" stype="margin-top:0px">
