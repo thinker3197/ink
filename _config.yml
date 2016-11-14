@@ -10,7 +10,7 @@ github:             "haizhupan"
 
 disqus_shortname:   "thinker3197"
 
-background:         "http://www.hdiphone6wallpaper.com/wp-content/uploads/Nature/FTP2/Blue sky wind turbines iphone 6 wallpaper.jpg"
+background:         "/Blue.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
