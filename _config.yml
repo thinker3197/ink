@@ -1,20 +1,16 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Haizhu.Pan"
+description:        "A personal blog (using Ink's theme)"
 
 url:                ""
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
+author:             "haizhupan"
+email:              "haizhupan@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+email:              "haizhupan@gmail.com"
+github:             "haizhupan"
 
 disqus_shortname:   "thinker3197"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "/Blue.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
@@ -27,8 +23,10 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Pictures"
+    href:           "/pictures"
+  - name:           "Publications"
+    href:           "/publish"
 
 sass:
   style:            :compressed

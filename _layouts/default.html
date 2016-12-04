@@ -3,11 +3,12 @@
 {% include head.html %}
 
 <body class="preload">
+    
     <div class="top"></div>
     <div class="profile" style="background-image: url({{ site.background }});">
-        <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" />
-        <h3>{{ site.name }}</h3>
-        <p>{{ site.description }}</p>
+        <img src="/phz.jpg" class="img-circle" />
+        <h3><font color="black">{{ site.name }}</font></h3>
+    
         <ul class="social">
             {% if site.github %}
             <a type="button" href="http://github.com/{{ site.github }}">
@@ -35,6 +36,7 @@
     <div class="posts">
         {{ content }}
     </div>
+    
 </body>
 <script type="text/javascript">
     window.onload = function(){
