@@ -2,37 +2,56 @@
 layout: default 
 ---
 <header class="bloghead">
-    <h1 class="bloghead-title">
-    <a href="{{ site.url }}/">{{ site.name }}<span>&#39;s blog</span></a>
-  </h1>
+    <!--<h1 class="bloghead-title">
+    a href="{{ site.url }}/">{{ site.name }}</a>
+  </h1>-->
     <nav class="bloghead-nav">
         {% for nav in site.nav %}
         <a href="{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
     </nav>
 </header>
+<body>
 <div class="content">
+    <br />
+    <h2 class="page-title">News</h2>
     {% if site.posts.size == 0 %}
-    <h2>No post found</h2> {% else %} {% for post in paginator.posts %}
+    No News {% else %} {% for post in paginator.posts %}
     <div class="post-list">
-        <h2 class="post-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h2> {% if post.description %}
-        <p>{{ post.description }}</p>
-        {% endif %}
-        <div class="post-date">
-            <time>{{ post.date | date_to_string }}</time>
-        </div>
+        <h4><time>{{ post.date | date_to_string }}</time></h4>
+        {{ post.content }}
     </div>
     {% endfor %} {% if paginator.total_pages > 1 %}
     <div class="pages">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><</a>
       {% endif %}
-
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">></a>
       {% endif %}
     </div>
     {% endif %}
-  {% endif %}
+    {% endif %}
 </div>
+<!-- Start of StatCounter Code for Default Guide -->
+<div style="position:fixed;bottom:0">
+<script type="text/javascript">
+    var sc_project=11279819; 
+    var sc_invisible=1; 
+    var sc_security="8195e7d9"; 
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript>
+    <div class="statcounter">
+        <a title="real time web analytics" href="http://statcounter.com/" target="_blank">
+            <img class="statcounter" src="//c.statcounter.com/11279819/0/8195e7d9/1/" alt="real time web analytics">
+        </a>
+    </div>
+</noscript>
+</div>
+<!-- End of StatCounter Code for Default Guide -->
+<!-- style="position:fixed;bottom:0;" -->
+</body>

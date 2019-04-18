@@ -1,18 +1,18 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Hao Li's Homepage"
+description:        "Research Associate "
 
 url:                ""
 author:             "Hao Li"
 email:              "hao.li@uni-heidelberg.de"
-gravatar_hash:      ""
-twitter:            ""
+twitter:            "bobleegogogo"
 github:             "bobleegogogo"
-linkedin:           ""
+linkedin:           "hao li"
 
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "Hao"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "/papers.co-vd21-black-sea-texture-40-wallpaper.jpg"
+#"http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
 paginate:           5
 paginate_path:      "/page:num/"
@@ -21,12 +21,18 @@ baseurl:            ""
 permalink:          /:year/:month/:day/:title/
 
 markdown:           kramdown
-
+    
 nav:
-  - name:           "About"
-    href:           "/about"
-  - name:           "Download"
-    href:           "/releases"
+  - name:           "Home"
+    href:           "/"
+  - name:           "About Me"
+    href:           "/aboutme"
+  - name:           "Career"
+    href:           "/career"
+  - name:           "Publications"
+    href:           "/publications"
+  - name:           "Contact"
+    href:           "/contact"
 
 sass:
   style:            :compressed
@@ -47,3 +53,5 @@ defaults:
 
 gems:
   - jekyll-paginate
+
+highlighter: rouge

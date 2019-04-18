@@ -1,0 +1,4 @@
+---
+title:        "CV"
+permalink: /career/
+---
