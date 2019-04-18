@@ -1,16 +1,14 @@
 name:               "Ink"
 description:        "A minimalistic jekyll theme for humans"
 
-url:                "http://leebobgogogo.github.io"
-author:             "thinker3197"
-email:              "jhondoe@abc.com"
-gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
-pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+url:                ""
+author:             "Hao Li"
+email:              "hao.li@uni-heidelberg.de"
+gravatar_hash:      ""
+twitter:            ""
+github:             "bobleegogogo"
+linkedin:           ""
+
 
 disqus_shortname:   "thinker3197"
 
