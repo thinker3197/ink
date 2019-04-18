@@ -1,0 +1,86 @@
+<head>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+</head>
+<body>
+      <h3>Skills</h3>
+      <div class="smallerChart">
+            <canvas id="Topic" style="display:inline;"></canvas>
+            <script>
+                var ctx = document.getElementById("Topic");
+                /*var width = window.innerWidth
+                if (width>38em) {
+                      var fontS = 20
+                } else {
+                      var fontS = 14
+                }*/
+                var data = {
+                    labels: [["Computer","vision"], ["Machine","learning"], ["Deep","learning"], ["Optimization"], ["Teaching"]],
+                    datasets: [{
+                        label: "Topic",
+                        backgroundColor: "rgba(179,181,198,0.2)",
+                        borderColor: "#DE1937",
+                        pointBackgroundColor: "#DE1937",
+                        pointBorderColor: "#fff",
+                        pointHoverBackgroundColor: "#DE1937",
+                        pointHoverBorderColor: "#DE1937",
+                        data: [90, 80, 80, 50, 60]
+                        }]
+                };
+                var myRadarChart = new Chart(ctx, {
+                    type: 'radar',
+                    data: data,
+                    options: {
+                        scale: {
+                            responsive: true,
+                            ticks: {
+                                  min: 0, 
+                                  max: 100,
+                                  stepSize: 20,
+                                  fontSize: 14
+                            },
+                            lineArc: false,
+                            pointLabels: {fontSize: 20},
+                        },
+                        legend: {display: false},
+                    }
+                });
+            </script>
+      </div>
+      <div class="smallerChart">
+            <canvas id="Languages" style="display:inline;"></canvas>
+            <script>
+                var ctx = document.getElementById("Languages");
+                var data = {
+                    labels: [["Python"], ["Matlab"], ["C++"], ["Java"], ["LaTex"],["Tensorflow"],["Caffe"],["PyTorch"]],
+                    datasets: [{
+                        label: "Topic",
+                        backgroundColor: "rgba(179,181,198,0.2)",
+                        borderColor: "#DE1937",
+                        pointBackgroundColor: "#DE1937",
+                        pointBorderColor: "#fff",
+                        pointHoverBackgroundColor: "#DE1937",
+                        pointHoverBorderColor: "#DE1937",
+                        data: [90, 90, 60, 50, 80, 60, 70, 80]
+                        }]
+                };
+                var myRadarChart = new Chart(ctx, {
+                    type: 'radar',
+                    data: data,
+                    options: {
+                        scale: {
+                            responsive: true,
+                            ticks: {
+                                  min: 0, 
+                                  max: 100,
+                                  stepSize: 20,
+                                  fontSize: 14
+                            },
+                            lineArc: false,
+                            pointLabels: {fontSize: 20},
+                        },
+                        legend: {display: false},
+                    }
+                });
+            </script>
+      </div>
+</body>

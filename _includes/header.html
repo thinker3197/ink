@@ -1,5 +1,6 @@
-<header class="head">
-  <h1 class="head-title">
-    <a href="{{ site.baseurl }}/">{{ site.name }}</a>
-  </h1>
+<header class="bloghead">
+    <nav class="bloghead-nav">
+        {% for nav in site.nav %}
+        <a href="{{ nav.href }}">{{ nav.name }}<span> &nbsp;/&nbsp; </span></a> {% endfor %}
+    </nav>
 </header>
