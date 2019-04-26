@@ -11,7 +11,7 @@ permalink: /career/
     Stuttgart, Stuttgart, Germany
 
 2012-2015
-:   **BSc, Computer Science**; , Wuhan University, Wuhan, China
+:   **BSc, Computer Science**; Wuhan University, Wuhan, China
 
 2011-2015
 :   **BSc,  Geographic Information System**; Wuhan University, Wuhan, China
