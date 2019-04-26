@@ -3,7 +3,7 @@ title:        "CV"
 permalink: /career/
 ---
 
-2018-now(expected)
+2018-now
 :   **Research Associate**; Heidelberg University, Heidelberg, Germany
 
 2015-2018
