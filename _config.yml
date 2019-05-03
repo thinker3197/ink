@@ -24,7 +24,7 @@ markdown:           kramdown
     
 nav:
   - name:           "Home"
-    href:           "/home"
+    href:           "/"
   - name:           "About Me"
     href:           "/aboutme"
   - name:           "Career"
