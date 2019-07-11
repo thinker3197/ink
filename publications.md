@@ -10,7 +10,7 @@ https://doi.org/10.3390/rs10101649](https://doi.org/10.3390/rs10101649)
 
 <h3>Conference Proceedings (peer reviewd)</h3>
 
-Li, H., Herfort, B., Zipf, A. (2019): Estimating OpenStreetMap Missing Built-up Areas using Pre-trained Deep Neural Networks, In: Proceedings of the 22st AGILE Conference on Geographic Information Science, Limassol, Cyprus. (Accepted)
+Li, H., Herfort, B., Zipf, A. (2019): [Estimating OpenStreetMap Missing Built-up Areas using Pre-trained Deep Neural Networks, In: Proceedings of the 22st AGILE Conference on Geographic Information Science, Limassol, Cyprus.](https://www.geog.uni-heidelberg.de/md/chemgeo/geog/gis/agile_final_version.pdf)
 
 <h3>Others</h3>
 
