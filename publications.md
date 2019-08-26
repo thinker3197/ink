@@ -4,7 +4,7 @@ permalink: /publications/
 ---
 <h3>Journal Papers (peer reviewd)</h3>
 
-Herfort, B.; **Li, H**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning. Remote Sens. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
+Herfort, B.; **Li, H**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning. Remote Sensing. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
 
 **Li, H.**., Ghamisi, P., Soergel, U. and Zhu, X.X. (2018): [Hyperspectral and LiDAR Fusion Using Deep Three-Stream Convolutional Neural Networks. Remote Sensing, 2018, 10, 1649.
 https://doi.org/10.3390/rs10101649](https://doi.org/10.3390/rs10101649) 
