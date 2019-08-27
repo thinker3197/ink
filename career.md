@@ -8,6 +8,9 @@ permalink: /career/
 2018-now
 :   **Research Associate**; Giscience Chair, Heidelberg University, Heidelberg, Germany
 
+July. 2017- Jan. 2018
+: **Master Thesis**, Signal Processing in Earth Observation Group, Techinical University of Munich & German Aerospace Center (DLR), Germany
+
 2015-2018
 :   **MSc, Geomatics Engineering**; University of
     Stuttgart, Stuttgart, Germany
