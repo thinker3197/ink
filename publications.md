@@ -16,4 +16,4 @@ https://doi.org/10.3390/rs10101649](https://doi.org/10.3390/rs10101649)
 
 <h3>Others</h3>
 
-**Li, H**., Herfort, B., Fendrich, S., Lautenbach, S., Zipf, A. (2019): Künstliche Intelligenz und Crowdsourcing Geoinformation zur Unterstützung Humanitärer Hilfe, gis.Business, Das Magazin für Geoinformation.
+**Li, H**., Herfort, B., Fendrich, S., Lautenbach, S., Zipf, A. (2019): [Künstliche Intelligenz und Crowdsourcing Geoinformation zur Unterstützung Humanitärer Hilfe, gis.Business, Volume 2019, Issue 2, 2019, Pages 51-52](https://www.scopus.com/record/display.uri?eid=2-s2.0-85066735454&origin=inward&txGid=8326d9ec1e32246e1f5dd0e1143bbf99#top)
