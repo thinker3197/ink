@@ -15,3 +15,4 @@ Besides research, I enjoy basketball, cylcing, and traveling. In addition, I'm a
 * Remote Sensing, MDPI
 * ISPRS International Journal of Geo-Information, MDPI
 * Arabian Journal of Geosciences, Springer
+* IEEE Geoscience and Remote Sensing Letters, IEEE
