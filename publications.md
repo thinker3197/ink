@@ -5,11 +5,11 @@ permalink: /publications/
 
 <h2>Journal Papers (peer reviewd)</h2>
 
-* Zhu X., Hu J., Qiu C., Shi Y., Kang J., Mou L., Bagheri H., Härberle M., Hua Y., Huang R., Hughes L., **Li H.**, Sun Y., Zhang G., Han S., Schmitt M., Wang Y., (2020) [***So2Sat LCZ42: A Benchmark Dataset for Global Local Climate Zones Classification***, IEEE Geoscience and Remote Sensing Magazine, in press.](https://ieeexplore.ieee.org/document/9014553)
+Zhu X., Hu J., Qiu C., Shi Y., Kang J., Mou L., Bagheri H., Härberle M., Hua Y., Huang R., Hughes L., **Li H.**, Sun Y., Zhang G., Han S., Schmitt M., Wang Y., (2020) [***So2Sat LCZ42: A Benchmark Dataset for Global Local Climate Zones Classification***, IEEE Geoscience and Remote Sensing Magazine, in press.](https://ieeexplore.ieee.org/document/9014553)
 
-* Herfort, B.; **Li, H**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [***Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning***. Remote Sensing. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
+Herfort, B.; **Li, H**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [***Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning***. Remote Sensing. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
 
-* **Li, H.**., Ghamisi, P., Soergel, U. and Zhu, X.X. (2018): [***Hyperspectral and LiDAR Fusion Using Deep Three-Stream Convolutional Neural Networks***. Remote Sensing, 2018, 10, 1649.](https://doi.org/10.3390/rs10101649) 
+**Li, H.**., Ghamisi, P., Soergel, U. and Zhu, X.X. (2018): [***Hyperspectral and LiDAR Fusion Using Deep Three-Stream Convolutional Neural Networks***. Remote Sensing, 2018, 10, 1649.](https://doi.org/10.3390/rs10101649) 
 
 
 <h2>Conference Proceedings (peer reviewd)</h2>
