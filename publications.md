@@ -4,6 +4,8 @@ permalink: /publications/
 ---
 <h3>Journal Papers (peer reviewd)</h3>
 
+**(J4)**   **Li, H**.; Herfort, B.; Wei, H.; Zia. M.; Zipf, A. (2020) [***Exploration of OpenStreetMap Missing Built-up Areas using Twitter Hierarchical Clustering and Deep Learning in Mozambique***. ISPRS Journal of Photogrammetry and Remote Sensing. In press](https://www.researchgate.net/publication/341371133_Exploration_of_OpenStreetMap_Missing_Built-up_Areas_using_Twitter_Hierarchical_Clustering_and_Deep_Learning_in_Mozambique)
+
 **(J3)**  Zhu X., Hu J., Qiu C., Shi Y., Kang J., Mou L., Bagheri H., Härberle M., Hua Y., Huang R., Hughes L., **Li H.**, Sun Y., Zhang G., Han S., Schmitt M., Wang Y., (2020) [***So2Sat LCZ42: A Benchmark Dataset for Global Local Climate Zones Classification***, IEEE Geoscience and Remote Sensing Magazine, in press.](https://ieeexplore.ieee.org/document/9014553)
 
 **(J2)**  Herfort, B.; **Li, H**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [***Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning***. Remote Sensing. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
