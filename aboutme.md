@@ -8,11 +8,11 @@ I am now a research associate and Ph.D candidate in GIScience team in Heidelberg
 Besides research, I enjoy basketball, cylcing, and traveling. In addition, I'm also a big fan of cooking, just cannot stop trying all differents delicious cuisines.
 
 <h2>Research Interests</h2>
-* volunteered geographic information, 
-* geospatial machine learning , 
-* multi-sensor data fusion, 
-* geo-semantics,
-* remote sensing.
+* volunteered geographic information
+* geospatial machine learning
+* multi-sensor data fusion
+* geo-semantics
+* remote sensing
 
 For more information about GIScience research group, please refer to our blog: [http://giscienceblog.uni-hd.de/](http://giscienceblog.uni-hd.de/)
 
