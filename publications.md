@@ -4,11 +4,13 @@ permalink: /publications/
 ---
 <h3>Journal Papers (peer reviewd)</h3>
 
-**(J4)**   **Li, H**.; Herfort, B.; Wei, H.; Zia. M.; Zipf, A. (2020) [***Exploration of OpenStreetMap Missing Built-up Areas using Twitter Hierarchical Clustering and Deep Learning in Mozambique***. ISPRS Journal of Photogrammetry and Remote Sensing. Volume 166, August 2020, Pages 41-51](https://doi.org/10.1016/j.isprsjprs.2020.05.007)
+**(J5)**  **Li, H.**; Ghamisi, P.; Rasti, B.; Wu, Z.; Shapiro, A.; Schultz, M.; Zipf, A.(2020) [***A Multi-Sensor Fusion Framework Based on Coupled Residual Convolutional Neural Networks***. Remote Sensing. 2020, 12, 2067.](https://doi.org/10.3390/rs12122067)
+
+**(J4)**   **Li, H.**.; Herfort, B.; Wei, H.; Zia. M.; Zipf, A. (2020) [***Exploration of OpenStreetMap Missing Built-up Areas using Twitter Hierarchical Clustering and Deep Learning in Mozambique***. ISPRS Journal of Photogrammetry and Remote Sensing. Volume 166, August 2020, Pages 41-51](https://doi.org/10.1016/j.isprsjprs.2020.05.007)
 
 **(J3)**  Zhu X., Hu J., Qiu C., Shi Y., Kang J., Mou L., Bagheri H., Härberle M., Hua Y., Huang R., Hughes L., **Li H.**, Sun Y., Zhang G., Han S., Schmitt M., Wang Y., (2020) [***So2Sat LCZ42: A Benchmark Dataset for Global Local Climate Zones Classification***, IEEE Geoscience and Remote Sensing Magazine, in press.](https://ieeexplore.ieee.org/document/9014553)
 
-**(J2)**  Herfort, B.; **Li, H**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [***Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning***. Remote Sensing. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
+**(J2)**  Herfort, B.; **Li, H.**.; Fendrich, S.; Lautenbach, S.; Zipf, A. (2019) [***Mapping Human Settlements with Higher Accuracy and Less Volunteer Efforts by Combining Crowdsourcing and Deep Learning***. Remote Sensing. 2019, 11, 1799.](https://doi.org/10.3390/rs11151799)
 
 **(J1)** **Li, H.**., Ghamisi, P., Soergel, U. and Zhu, X.X. (2018): [***Hyperspectral and LiDAR Fusion Using Deep Three-Stream Convolutional Neural Networks***. Remote Sensing, 2018, 10, 1649.](https://doi.org/10.3390/rs10101649) 
 
