@@ -6,7 +6,7 @@ permalink: /publications/
 
 **(J5)**  **Li, H.**; Ghamisi, P.; Rasti, B.; Wu, Z.; Shapiro, A.; Schultz, M.; Zipf, A.(2020) [***A Multi-Sensor Fusion Framework Based on Coupled Residual Convolutional Neural Networks***. Remote Sensing. 2020, 12, 2067.](https://doi.org/10.3390/rs12122067)
 
-**(J4)**   **Li, H.**.; Herfort, B.; Wei, H.; Zia. M.; Zipf, A. (2020) [***Exploration of OpenStreetMap Missing Built-up Areas using Twitter Hierarchical Clustering and Deep Learning in Mozambique***. ISPRS Journal of Photogrammetry and Remote Sensing. Volume 166, August 2020, Pages 41-51](https://doi.org/10.1016/j.isprsjprs.2020.05.007)
+**(J4)**   **Li, H.**.; Herfort, B.; Wei, H.; Zia. M.; Zipf, A. (2020) [***Exploration of OpenStreetMap Missing Built-up Areas using Twitter Hierarchical Clustering and Deep Learning in Mozambique***. ISPRS Journal of Photogrammetry and Remote Sensing. Volume 166, August 2020, Pages 41-51](https://doi.org/10.1016/j.isprsjprs.2020.05.007) [**(Featured papr in Auguest)**](https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing/featured-articles/2020-featured-articles)
 
 **(J3)**  Zhu X., Hu J., Qiu C., Shi Y., Kang J., Mou L., Bagheri H., Härberle M., Hua Y., Huang R., Hughes L., **Li H.**, Sun Y., Zhang G., Han S., Schmitt M., Wang Y., (2020) [***So2Sat LCZ42: A Benchmark Dataset for Global Local Climate Zones Classification***, IEEE Geoscience and Remote Sensing Magazine, in press.](https://ieeexplore.ieee.org/document/9014553)
 
