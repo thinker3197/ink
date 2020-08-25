@@ -24,3 +24,6 @@ permalink: /publications/
 <h3>Others</h3>
 
 **Li, H**., Herfort, B., Fendrich, S., Lautenbach, S., Zipf, A. (2019): ***Künstliche Intelligenz und Crowdsourcing Geoinformation zur Unterstützung Humanitärer Hilfe***, gis.Business, Volume 2019, Issue 2, 2019, Pages 51-52
+
+**Li, H**., Herfort, B., Zia, M., Zipf, A. (2020): ***Geo-Social-Media und Künstliche Intelligenz zur Unterstützung von humanitärer Hilfe in Afrika***, gis.Business, Volume 2020, Issue 4, 2020, Pages 33-34
+
