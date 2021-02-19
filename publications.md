@@ -19,6 +19,8 @@ permalink: /publications/
 
 <h3>Conference Proceedings (peer reviewd)</h3>
 
+**(C3)** Ghamisi, P., **Li, H.**, Jackisch, R., Rasti, B., Gloaguen, R. (2019): [***Remote Sensing and Deep Learning for Sustainable Mining***, In: IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 3739-3742](https://ieeexplore.ieee.org/document/9323680)
+
 **(C2)** Wu, Z., **Li, H.\***, & Zipf, A. (2020): [***From Historical OpenStreetMap data to customized training samples for geospatial machine learning***, In: Proceedings of the Academic Track at the State of the Map 2020 Online Conference, July 4-5 2020.](http://doi.org/10.5281/zenodo.3923040) (\*: Corresponding Author)
 
 **(C1)**  **Li, H.**, Herfort, B., Zipf, A. (2019): [***Estimating OpenStreetMap Missing Built-up Areas using Pre-trained Deep Neural Networks***, In: Proceedings of the 22st AGILE Conference on Geographic Information Science, Limassol, Cyprus.](https://www.geog.uni-heidelberg.de/md/chemgeo/geog/gis/agile_final_version.pdf)
