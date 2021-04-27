@@ -9,6 +9,7 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 
 <h2>Teaching</h2>
 * Machine Learning for Geographic Applications, Lecture & Lab, SS 2020, Heidelberg University.
+* Machine Learning for Geographic Applications, Lecture & Lab, SS 2021, Heidelberg University.
 
 <h2>Research Interests</h2>
 * volunteered geographic information
