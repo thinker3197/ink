@@ -22,6 +22,7 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 For more information about GIScience research group, please refer to our blog: [http://giscienceblog.uni-hd.de/](http://giscienceblog.uni-hd.de/)
 
 <h2>Scientific Reviewing</h2>
+* Annals of the American Association of Geographers, Taylor & Francis
 * Remote Sensing, MDPI
 * ISPRS International Journal of Geo-Information, MDPI
 * Arabian Journal of Geosciences, Springer
