@@ -8,8 +8,10 @@ I am now a research associate and Ph.D candidate in GIScience team in Heidelberg
 Besides research, I enjoy basketball, cylcing, and running. In addition, I'm also a big fan of cooking, just cannot stop trying all differents delicious cuisines.
 
 <h2>Teaching</h2>
-* Machine Learning for Geographic Applications, Lecture & Lab, SS 2020, Heidelberg University.
+
+* Geographical Analysis of Social Media Data (GASMD), Seminar & Lab, WS2021, Heidelberg Universtiy.
 * Machine Learning for Geographic Applications, Lecture & Lab, SS 2021, Heidelberg University.
+* Machine Learning for Geographic Applications, Lecture & Lab, SS 2020, Heidelberg University.
 
 <h2>Research Interests</h2>
 * volunteered geographic information
