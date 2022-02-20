@@ -9,7 +9,7 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 
 <h2>Teaching</h2>
 
-* [Geographical Analysis of Social Media Data (GASMD), Seminar & Lab, WS2021](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=350079&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), Heidelberg Universtiy.
+* [Geographical Analysis of Social Media Data (GASMD), Seminar & Lab, WS2021](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=350079&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung), Heidelberg University.
 * Machine Learning for Geographic Applications, Lecture & Lab, SS 2021, Heidelberg University.
 * Machine Learning for Geographic Applications, Lecture & Lab, SS 2020, Heidelberg University.
 
