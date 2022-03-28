@@ -15,7 +15,7 @@ disqus_shortname:   "Hao"
 background:         "/1658027027.jpg"
 #"http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:           5
+paginate:           8
 paginate_path:      "/page:num/"
 
 baseurl:            ""
