@@ -16,6 +16,7 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 <h2>Invited Talks</h2>
 
 * Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap, College of Surverying and Geo-infromatics, Tongji University, November 2021.
+* [Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap](https://mp.weixin.qq.com/s/G2GRet3trCF75zh4aHIjGw), the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University (LIESMARS), April 2022.
 
 <h2>Scientific Reviewing</h2>
 
