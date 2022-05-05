@@ -4,6 +4,8 @@ permalink: /publications/
 ---
 <h3>Journal Papers (peer reviewd)</h3>
 
+**(J8)**  **Li, H.**; Herfort, B.; Lautenbach, S.; Chen, J.; Zipf, A.(2022) [***Improving OpenStreetMap missing building detection using few-shot transfer learning in sub-Saharan Africa***. Transactions in GIS. 2022, 04 May.](https://doi.org/10.1111/tgis.12941)
+
 **(J7)**  **Li, H.**; Zech, J.; Ludwig, C.; Fendrich, S.; Shapiro, A.; Schultz, M.; Zipf, A.(2021) [***Automatic mapping of national surface water with OpenStreetMap and Sentinel-2 MSI data using deep learning***. International Journal of Applied Earth Observation and Geoinformation. 2021, Vol 104.](https://authors.elsevier.com/sd/article/S0303-2434(21)00278-6)
 
 **(J6)** Hu, X.; Noskov, A.; Fan, H.; Novack, T.; **Li, H.**; Gu, F.; Shang, J.; Zipf, A.(2021) [***Tagging the main entrances of public buildings based on OpenStreetMap and binary imbalanced learning***. International Journal of Geographical Information Science, 2021, 04 Feb.](https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1861282?src=)
