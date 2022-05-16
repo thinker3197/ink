@@ -4,6 +4,8 @@ permalink: /publications/
 ---
 <h3>Journal Papers (peer reviewd)</h3>
 
+**(J9)**  **Li, H.**, Zech, J., Hong, D., Ghamisi, P., Schultz, M., Zipf, A.(2022) [***Leveraging OpenStreetMap and Multimodal Remote Sensing Data with Joint Deep Learning for Wastewater Treatment Plants Detection***. Volume 110, June 2022, 102804, International Journal of Applied Earth Observation and Geoinformation.](https://doi.org/10.1016/j.jag.2022.102804)
+
 **(J8)**  **Li, H.**; Herfort, B.; Lautenbach, S.; Chen, J.; Zipf, A.(2022) [***Improving OpenStreetMap missing building detection using few-shot transfer learning in sub-Saharan Africa***. Transactions in GIS. 2022, 04 May.](https://doi.org/10.1111/tgis.12941)
 
 **(J7)**  **Li, H.**; Zech, J.; Ludwig, C.; Fendrich, S.; Shapiro, A.; Schultz, M.; Zipf, A.(2021) [***Automatic mapping of national surface water with OpenStreetMap and Sentinel-2 MSI data using deep learning***. International Journal of Applied Earth Observation and Geoinformation. 2021, Vol 104.](https://authors.elsevier.com/sd/article/S0303-2434(21)00278-6)
