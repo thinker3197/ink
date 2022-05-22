@@ -25,7 +25,9 @@ permalink: /publications/
 
 <h3>Conference Proceedings (peer reviewd)</h3>
 
-**(C4)** Pisl, J., **Li, H.**, Lautenbach, S., Herfort, B., and Zipf, A.: [***Detecting OpenStreetMap missing buildings by transferring pre-trained deep neural networks***, AGILE GIScience Ser., 2, 39, 2021.](https://doi.org/10.5194/agile-giss-2-39-2021)
+**(C5)** **Li, H.**; Zipf, A. (2022) [***A conceptual model for converting OpenStreetMap contribution to geospatial machine learning training data***, ISPRS XXIV Congress 2022 At: Nice, France.](https://www.researchgate.net/publication/360260975_A_CONCEPTUAL_MODEL_FOR_CONVERTING_OPENSTREETMAP_CONTRIBUTION_TO_GEOSPATIAL_MACHINE_LEARNING_TRAINING_DATA)
+
+**(C4)** Pisl, J., **Li, H.**, Lautenbach, S., Herfort, B., and Zipf, A. (2021): [***Detecting OpenStreetMap missing buildings by transferring pre-trained deep neural networks***, AGILE GIScience Ser., 2, 39, 2021.](https://doi.org/10.5194/agile-giss-2-39-2021)
 
 **(C3)** Ghamisi, P., **Li, H.**, Jackisch, R., Rasti, B., Gloaguen, R. (2019): [***Remote Sensing and Deep Learning for Sustainable Mining***, In: IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, HI, USA, 2020, pp. 3739-3742](https://ieeexplore.ieee.org/document/9323680)
 
