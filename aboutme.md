@@ -15,7 +15,7 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 
 <h2>Invited Talks</h2>
 
-* A Conceptual Model for Converting OpenStreetMap Contribution to Geospatial Machine Learning Training Data, the Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences (CAS), May, 2022
+* A Conceptual Model for Converting OpenStreetMap Contribution to Geospatial Machine Learning Training Data, Aerospace Information Research Institute, Chinese Academy of Sciences (CAS), May, 2022
 * [Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap](https://ual.sg/seminars/), the Urban Analytics Lab seminar series, National University of Singapore (NUS), April 2022.
 * [Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap](https://mp.weixin.qq.com/s/G2GRet3trCF75zh4aHIjGw), the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University (LIESMARS), April 2022.
 * Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap, College of Surverying and Geo-infromatics, Tongji University, November 2021.
