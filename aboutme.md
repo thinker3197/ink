@@ -29,6 +29,11 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 * Arabian Journal of Geosciences, Springer
 * IEEE Geoscience and Remote Sensing Letters, IEEE
 
+<h2>Program Committee</h2>
+
+* [Academic Track, State of the Map 2022](https://2022.stateofthemap.org/calls/academic/) 
+* [3rd Data-driven Humanitarian Mapping workshop](https://kdd-humanitarian-mapping.herokuapp.com/#org), ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022
+
 <h2>Research Interests</h2>
 
 * volunteered geographic information
