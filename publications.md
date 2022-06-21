@@ -4,6 +4,9 @@ permalink: /publications/
 ---
 <h3>Journal Papers (peer reviewd)</h3>
 
+
+**(J10)** **Li, H.**, Yuan, Z., Novack, T., Huang, W., Zipf, A., (2022) [***Understanding spatiotemporal trip purposes of urban micro-mobility from the lens of dockless e-scooter sharing***. Computers, Environment and Urban Systems, 96, 101848, June 2022](https://doi.org/10.1016/j.compenvurbsys.2022.101848)
+
 **(J9)**  **Li, H.**, Zech, J., Hong, D., Ghamisi, P., Schultz, M., Zipf, A.(2022) [***Leveraging OpenStreetMap and Multimodal Remote Sensing Data with Joint Deep Learning for Wastewater Treatment Plants Detection***. Volume 110, June 2022, 102804, International Journal of Applied Earth Observation and Geoinformation.](https://doi.org/10.1016/j.jag.2022.102804)
 
 **(J8)**  **Li, H.**; Herfort, B.; Lautenbach, S.; Chen, J.; Zipf, A.(2022) [***Improving OpenStreetMap missing building detection using few-shot transfer learning in sub-Saharan Africa***. Transactions in GIS. 2022, 04 May.](https://doi.org/10.1111/tgis.12941)
