@@ -2,10 +2,13 @@
 title:        "CV"
 permalink: /career/
 ---
+July. 2022-now
+:   **Lecturer/Research Associate**; Professorship for Big Geospatial Data Management, Technical University of Munich, Munich, Germany
+
 2019-now
 :   **Ph.D Candidate**; Giscience Chair, Heidelberg University, Heidelberg, Germany
 
-2018-now
+2018-June. 2022
 :   **Research Associate**; Giscience Chair, Heidelberg University, Heidelberg, Germany
 
 July. 2017- Jan. 2018
