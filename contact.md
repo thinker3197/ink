@@ -2,7 +2,7 @@
 title:        "Contact"
 permalink: /contact/
 ---
-<div class="post-list">
+
 <h5 style="margin-bottom: 0px">Office</h5>
   
 <p>Professorship for Big Geospatial Data Management<br />
@@ -20,4 +20,4 @@ Room: 012D<br />
 Telefon: +49 6221 54-5534<br />
 Fax: +49 6221 54-4529<br />
 E-mail: hao.li(at)uni-heidelberg.de</p>
-</div>
+
