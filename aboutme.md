@@ -50,4 +50,4 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 * intelligent urban mobility
 * remote sensing
 
-For more information about GIScience research group, please refer to our blog: [http://giscienceblog.uni-hd.de/](http://giscienceblog.uni-hd.de/)
+
