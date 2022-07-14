@@ -13,6 +13,16 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 * Machine Learning for Geographic Applications, Lecture & Lab, SS 2021, Heidelberg University.
 * Machine Learning for Geographic Applications, Lecture & Lab, SS 2020, Heidelberg University.
 
+<h2>Project</h2>
+
+* <b>Principle Investigator</b>, [HDF4Water: Hierarchical Data Format for Water-related Big Geodata](https://www.nfdi4earth.de/2participate/incubator-lab), funded by the NFDI4Earth consortium, from July, 2022 to Dec, 2022.
+
+<h2>Program Committee</h2>
+
+* [Academic Track, State of the Map 2022](https://2022.stateofthemap.org/calls/academic/) 
+* [3rd Data-driven Humanitarian Mapping workshop](https://kdd-humanitarian-mapping.herokuapp.com/#org), ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022
+
+
 <h2>Invited Talks</h2>
 
 * A Conceptual Model for Converting OpenStreetMap Contribution to Geospatial Machine Learning Training Data, Aerospace Information Research Institute, Chinese Academy of Sciences (CAS), May, 2022
@@ -23,16 +33,13 @@ Besides research, I enjoy basketball, cylcing, and running. In addition, I'm als
 
 <h2>Scientific Reviewing</h2>
 
+* International Journal of Applied Earth Observation and Geoinformation, Elsevier
 * Annals of the American Association of Geographers, Taylor & Francis
 * Remote Sensing, MDPI
 * ISPRS International Journal of Geo-Information, MDPI
 * Arabian Journal of Geosciences, Springer
 * IEEE Geoscience and Remote Sensing Letters, IEEE
 
-<h2>Program Committee</h2>
-
-* [Academic Track, State of the Map 2022](https://2022.stateofthemap.org/calls/academic/) 
-* [3rd Data-driven Humanitarian Mapping workshop](https://kdd-humanitarian-mapping.herokuapp.com/#org), ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022
 
 <h2>Research Interests</h2>
 
